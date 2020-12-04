@@ -3,3 +3,7 @@ This is to you, 2020!!
 
 == Second Heading
 TGIF
+
+== Resources
+* Antora Doc
+* Antora Repo
