@@ -1,0 +1,5 @@
+name: testing Antora
+title: Testing Antora
+version: dev
+nav:
+- modules/ROOT/basic.adoc
