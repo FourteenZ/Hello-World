@@ -1,0 +1,4 @@
+name: Hello-World
+title: Test Hello World
+nav:
+  -modules/ROOT/pages/index.adoc
